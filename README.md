@@ -1,1 +1,1 @@
-# PlantDetectionSystem
+# Plant Disease Detection System
